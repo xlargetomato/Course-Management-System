@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+:root {
+  --main1: #fbf8be;
+  --main2: #234e70;
+  --main3: #f0f0f7;
+  --hover1: #19384f;
+}
+.BLOCK {
+  display: block !important;
+}
+.translate {
+  translate: 0 !important;
+}
+.NONE {
+  display: none !important;
+}
+.opacity-color {
+  background-color: #9791918a;
+}
+.opacity {
+  opacity: 1 !important;
+}
+.move-right {
+  margin-left: 230px;
+}
+
+body {
+  background-color: var(--main1);
+}
+
+.container {
+  margin-top: 50px;
+  width: 90%;
+  background: var(--main2);
+  padding: 20px;
+  color: var(--main3);
+  border-radius: 10px;
+}
+
+.user-card {
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fbf8be;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: right;
+  color: #000;
+}
+.user-card strong {
+ font-weight: bolder;
+}
+
+.action-buttons {
+  text-align: left;
+}
+
+.action-buttons a {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.action-buttons2 {
+  text-align: right;
+}
+
+.action-buttons2 a {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Blue */
+  color: #ffffff; /* White */
+  border: 2px solid #0056b3; /* Dark Blue */
+}
+
+.btn-danger {
+  background-color: #dc3545; /* Red */
+  color: #ffffff; /* White */
+  border: 2px solid #c82333; /* Dark Red */
+}
+
+.btn-info {
+  background-color: #17a2b8; /* Teal */
+  color: #ffffff; /* White */
+  border: 2px solid #117a8b; /* Dark Teal */
+}
+
+.text-muted {
+  color: #6c757d; /* Gray */
+}
+
+.mb-4 {
+  margin-bottom: 2rem;
+  margin-top: 10px;
+  /* color: var(--main3); */
+}
+
+/* Added styles for the edit form */
+#editForm {
+  display: none;
+  margin-top: 20px;
+}
+
+.form-group {
+  text-align: right;
+}
+
+select.form-control:not([size]):not([multiple]) {
+  height: calc(2.25rem + 10px);
+}
