@@ -2,10 +2,10 @@
 error_reporting(E_ALL);
 $done2 = 0;
 $done = 0;
-$db = 'ezyro_37984761_uni2';
-$host = 'sql201.ezyro.com';
-$user = 'ezyro_37984761';
-$pass = '0109992878550';
+$db = '';
+$host = '';
+$user = '';
+$pass = '';
 
 define("db", $db);
 define("host", $host);
