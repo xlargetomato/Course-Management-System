@@ -34,7 +34,7 @@ This project was my first real step into **full web development** — combining 
 
 ## 🌍 Live Demo
 
-👉 [Course Management & Quiz System](#) *(Add link here if hosted)*  
+https://uni-website.unaux.com/?i=1
 
 ---
 
@@ -45,14 +45,6 @@ This was my first real project, and while the code isn’t perfect, it taught me
 - Build a working **web application** from scratch.  
 - Collaborate effectively as part of a **team**.  
 - Gain confidence in **frontend development** and working alongside backend systems.  
-
----
-
-## 📌 Future Improvements
-
-- Improve **UI/UX design**.  
-- Add **database integration** for persistent storage.  
-- Enhance **security features**.  
 
 ---
 
