@@ -1,53 +1,61 @@
-📚 Course Management & Quiz System
+# 📚 Course Management & Quiz System
 
-A simple web-based platform built during my first year of college to help students manage courses and quizzes in an organized way. The system allows authorized students to log in, create courses, and add quiz questions.
+A simple **web-based platform** built during my first year of college to help students **manage courses and quizzes** in an organized way.  
 
-🚀 Features
+This project was my first real step into **full web development** — combining frontend and backend work in a collaborative environment.
 
-🔐 Login system – only specific students can log in.
+---
 
-📖 Course management – add, edit, and organize courses.
+## 🚀 Features
 
-❓ Quiz management – add and manage quiz questions.
+- 🔐 **Login System** – only authorized students can log in.  
+- 📖 **Course Management** – add, edit, and organize courses.  
+- ❓ **Quiz Management** – create and manage quiz questions.  
+- 🎨 **Frontend UI** – responsive and interactive with HTML, CSS, JavaScript, and jQuery.  
+- 🔗 **Backend** – powered by PHP (developed collaboratively).  
 
-🎨 Frontend UI built with HTML, CSS, JavaScript, and jQuery.
+---
 
-🔗 Backend in PHP (developed collaboratively with a teammate).
+## 🛠️ Technologies Used
 
-🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript, jQuery  
+- **Backend:** PHP  
+- **Other:** Basic authentication system  
 
-Frontend: HTML, CSS, JavaScript, jQuery
+---
 
-Backend: PHP
+## 👩‍💻 My Contribution
 
-Other: Basic authentication system
+- Designed and built the **frontend interface** (HTML, CSS, JS, jQuery).  
+- Created a **responsive layout** for easy navigation.  
+- **Collaborated** with a teammate who implemented the PHP backend.  
 
-👩‍💻 My Contribution
+---
 
-Designed and built the frontend interface (HTML, CSS, JS, jQuery).
+## 🌍 Live Demo
 
-Created a responsive layout for easy navigation.
+👉 [Course Management & Quiz System](#) *(Add link here if hosted)*  
 
-Collaborated with a teammate who implemented the PHP backend.
+---
 
-🌍 Live Demo
+## 📖 Lessons Learned
 
-👉 Course Management & Quiz System
+This was my first real project, and while the code isn’t perfect, it taught me how to:  
 
-📖 Lessons Learned
+- Build a working **web application** from scratch.  
+- Collaborate effectively as part of a **team**.  
+- Gain confidence in **frontend development** and working alongside backend systems.  
 
-This was my first real project, and while the code is not perfect, I was proud to:
+---
 
-Build a working web application from scratch.
+## 📌 Future Improvements
 
-Work as part of a team on a shared project.
+- Improve **UI/UX design**.  
+- Add **database integration** for persistent storage.  
+- Enhance **security features**.  
 
-Gain confidence in frontend development and collaborating with backend systems.
+---
 
-📌 Future Improvements
+## 🤝 Acknowledgements
 
-Improve UI/UX design.
-
-Add database integration for persistent storage.
-
-Enhance security features.
+Special thanks to my teammate who worked on the backend logic with PHP.  
