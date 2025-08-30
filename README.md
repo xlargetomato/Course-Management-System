@@ -1,4 +1,4 @@
-# 📚 Course Management & Quiz System
+# Course Management & Quiz System
 
 A simple **web-based platform** built during my first year of college to help students **manage courses and quizzes** in an organized way.  
 
@@ -6,17 +6,17 @@ This project was my first real step into **full web development** — combining 
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 **Login System** – only authorized students can log in.  
-- 📖 **Course Management** – add, edit, and organize courses.  
-- ❓ **Quiz Management** – create and manage quiz questions.  
-- 🎨 **Frontend UI** – responsive and interactive with HTML, CSS, JavaScript, and jQuery.  
-- 🔗 **Backend** – powered by PHP (developed collaboratively).  
+-  **Login System** – only authorized students can log in.  
+-  **Course Management** – add, edit, and organize courses.  
+-  **Quiz Management** – create and manage quiz questions.  
+-  **Frontend UI** – responsive and interactive with HTML, CSS, JavaScript, and jQuery.  
+-  **Backend** – powered by PHP (developed collaboratively).  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript, jQuery  
 - **Backend:** PHP  
@@ -24,7 +24,7 @@ This project was my first real step into **full web development** — combining 
 
 ---
 
-## 👩‍💻 My Contribution
+## My Contribution
 
 - Designed and built the **frontend interface** (HTML, CSS, JS, jQuery).  
 - Created a **responsive layout** for easy navigation.  
@@ -32,13 +32,13 @@ This project was my first real step into **full web development** — combining 
 
 ---
 
-## 🌍 Live Demo
+## Live Demo
 
 https://uni-website.unaux.com/?i=1
 
 ---
 
-## 📖 Lessons Learned
+## Lessons Learned
 
 This was my first real project, and while the code isn’t perfect, it taught me how to:  
 
